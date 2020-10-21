@@ -35605,11 +35605,11 @@ END
           </Role>
           <Role>
             <ID>Role 20</ID>
-            <Name>Sales Rep - Indiv - GQ Central - Barry Rhodes - 172 - 20190724</Name>
+            <Name>Sales Rep - Indiv - GQ Central - Vicente Ruiz - 172 - 20190724</Name>
             <Members>
               <Member>
-                <Name>PEARLMANGRP\barry.rhodes</Name>
-                <Sid>S-1-5-21-1071856378-4194665216-1987366206-2140</Sid>
+                <Name>PEARLMANGRP\vicente.ruiz</Name>
+                <Sid>S-1-5-21-1071856378-4194665216-1987366206-2359</Sid>
               </Member>
             </Members>
           </Role>

@@ -1,0 +1,4 @@
+Get User's AD SID for the build scripts:
+Run the below command from command prompt as admin
+
+wmic useraccount where (name='USER_NAME) get sid
