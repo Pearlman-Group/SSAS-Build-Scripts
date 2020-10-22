@@ -35383,9 +35383,6 @@ END
               <Member>
                 <Name>PEARLMANGRP\AutomatedReportsUser</Name>
               </Member>
-              <Member>
-                <Name>PEARLMANGRP\gloria.pulliam</Name>
-              </Member>
             </Members>
           </Role>
           <Role>

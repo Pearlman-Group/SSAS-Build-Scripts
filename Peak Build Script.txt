@@ -18090,9 +18090,6 @@ CALCULATE; </Text>
               <Member>
                 <Name>PEARLMANGRP\tammy.doss</Name>
               </Member>
-              <Member>
-                <Name>PEARLMANGRP\gloria.pulliam</Name>
-              </Member>
             </Members>
           </Role>
           <Role>

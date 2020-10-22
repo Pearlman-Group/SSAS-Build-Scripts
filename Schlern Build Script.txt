@@ -3333,9 +3333,6 @@ VISIBLE = 1 ,  ASSOCIATED_MEASURE_GROUP = 'Fact AP'  ; </Text>
               <Member>
                 <Name>PEARLMANGRP\adam.sever</Name>
               </Member>
-              <Member>
-                <Name>PEARLMANGRP\gloria.pulliam</Name>
-              </Member>
             </Members>
           </Role>
         </Roles>

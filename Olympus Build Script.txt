@@ -11070,9 +11070,6 @@ END </Status>
               <Member>
                 <Name>PEARLMANGRP\kent.edgerton</Name>
               </Member>
-              <Member>
-                <Name>PEARLMANGRP\gloria.pulliam</Name>
-              </Member>
             </Members>
           </Role>
           <Role>
