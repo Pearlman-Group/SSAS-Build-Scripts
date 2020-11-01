@@ -7166,9 +7166,6 @@ VISIBLE = 1 ,  ASSOCIATED_MEASURE_GROUP = 'Fact Company Inv Stat'  ; </Text>
               <Member>
                 <Name>PEARLMANGRP\jacob.hill</Name>
               </Member>
-              <Member>
-                <Name>PEARLMANGRP\gloria.pulliam</Name>
-              </Member>
             </Members>
           </Role>
         </Roles>

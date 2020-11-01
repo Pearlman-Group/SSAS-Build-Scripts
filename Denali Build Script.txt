@@ -7471,9 +7471,6 @@ VISIBLE = 1 ,  ASSOCIATED_MEASURE_GROUP = 'Inv Stat by Whse'  ; </Text>
               <Member>
                 <Name>PEARLMANGRP\jacob.hill</Name>
               </Member>
-              <Member>
-                <Name>PEARLMANGRP\gloria.pulliam</Name>
-              </Member>
             </Members>
           </Role>
           <Role>
