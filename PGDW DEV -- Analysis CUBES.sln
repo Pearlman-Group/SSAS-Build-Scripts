@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "PGDW DEV -- Analysis CUBES", "Sales for Pearl DW Dev\PGDW DEV -- Analysis CUBES.dwproj", "{EC61473F-12E5-4BF2-BFAA-EA9C33DD5AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC61473F-12E5-4BF2-BFAA-EA9C33DD5AFB}.Development|Default.ActiveCfg = Development
+		{EC61473F-12E5-4BF2-BFAA-EA9C33DD5AFB}.Development|Default.Build.0 = Development
+		{EC61473F-12E5-4BF2-BFAA-EA9C33DD5AFB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF04ADA-266C-40C6-8457-4EE00D2F8106}
+	EndGlobalSection
+EndGlobal
