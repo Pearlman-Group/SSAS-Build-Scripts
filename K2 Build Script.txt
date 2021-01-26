@@ -35622,11 +35622,11 @@ END
           </Role>
           <Role>
             <ID>Role 22</ID>
-            <Name>Sales Rep - Indiv - GQ Central - Ed Vredenburgh - 27 - 20190724</Name>
+            <Name>Sales Rep - Indiv - GQ Central - Steven Vega - 27 - 202101264</Name>
             <Members>
               <Member>
-                <Name>PEARLMANGRP\ed.vredenburgh</Name>
-                <Sid>S-1-5-21-1071856378-4194665216-1987366206-2188</Sid>
+                <Name>PEARLMANGRP\steven.vega</Name>
+                <Sid>S-1-5-21-1071856378-4194665216-1987366206-5004</Sid>
               </Member>
             </Members>
           </Role>
